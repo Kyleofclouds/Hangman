@@ -1,0 +1,14 @@
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Hangman\Hangman\obj\Debug\Hangman.pdb
